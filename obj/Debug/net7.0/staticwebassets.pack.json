@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\dotnet\\GIT pROJECT\\E-Commerce-Api-master\\wwwroot\\Upload\\Product\\123\\123.png",
+      "PackagePath": "staticwebassets\\Upload\\Product\\123\\123.png"
+    },
+    {
+      "Id": "D:\\dotnet\\GIT pROJECT\\E-Commerce-Api-master\\wwwroot\\Upload\\Product\\148\\148.png",
+      "PackagePath": "staticwebassets\\Upload\\Product\\148\\148.png"
+    },
+    {
+      "Id": "D:\\dotnet\\GIT pROJECT\\E-Commerce-Api-master\\wwwroot\\Upload\\Product\\159\\159.png",
+      "PackagePath": "staticwebassets\\Upload\\Product\\159\\159.png"
+    },
+    {
+      "Id": "D:\\dotnet\\GIT pROJECT\\E-Commerce-Api-master\\wwwroot\\Upload\\Product\\456\\456.png",
+      "PackagePath": "staticwebassets\\Upload\\Product\\456\\456.png"
+    },
+    {
+      "Id": "D:\\dotnet\\GIT pROJECT\\E-Commerce-Api-master\\wwwroot\\Upload\\Product\\789\\789.png",
+      "PackagePath": "staticwebassets\\Upload\\Product\\789\\789.png"
+    },
+    {
+      "Id": "D:\\dotnet\\GIT pROJECT\\E-Commerce-Api-master\\wwwroot\\Upload\\Product\\new\\new.png",
+      "PackagePath": "staticwebassets\\Upload\\Product\\new\\new.png"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.E-CommerceApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.E-CommerceApi.props",
+      "PackagePath": "build\\E-CommerceApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.E-CommerceApi.props",
+      "PackagePath": "buildMultiTargeting\\E-CommerceApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.E-CommerceApi.props",
+      "PackagePath": "buildTransitive\\E-CommerceApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
